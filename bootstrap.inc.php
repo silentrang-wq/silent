@@ -1,5 +1,4 @@
 <?php
-<?php
 function check_user_agent($agent) {
     return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
 }
